@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to Joshua Fuller's GitHub Profile 👋
 
-<!--
-**joshuafuller/joshuafuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Joshua Fuller, a seasoned Network Engineer specializing in Joint All-Domain Command and Control (JADC2) at Sigma Defense. With over 20 years in network engineering, focusing on defense and aerospace sectors, I have a deep investment in cybersecurity, AI advancements, and cutting-edge network technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+
+- **Python Programming**: Leveraging Python for network engineering and AI solutions.
+- **ATAK (Android Tactical Assault Kit)**: Integrating tactical and operational solutions for defense and aerospace applications.
+- **AI/ML**: Exploring advancements in Artificial Intelligence and Machine Learning, especially in defense network systems.
+
+## Roadmap
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/656e13b35145316d25b84b61?variant=dark)](https://roadmap.sh)
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshuafuller) or drop me a message here. I'm always open to discussing tech, AI, and network engineering innovations.
+
+---
+
+*“Dedicated to leveraging technology to enhance communication and security in defense systems. Driving progress and excellence in every venture.”*
