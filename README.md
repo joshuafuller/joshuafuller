@@ -13,7 +13,6 @@ I'm Joshua Fuller, a seasoned Network Engineer specializing in Joint All-Domain 
 ## Roadmap
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/656e13b35145316d25b84b61?variant=dark)](https://roadmap.sh)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/656e13b35145316d25b84b61?variant=dark)](https://roadmap.sh)
 
 ## Connect with Me
 
